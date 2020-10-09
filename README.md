@@ -1,2 +1,2 @@
 # Keylogger
-Um projeto pessoal de um keylogger simples, usando apensa a linguagem C.
+Um projeto pessoal de um keylogger simples, usando apena a linguagem C.
